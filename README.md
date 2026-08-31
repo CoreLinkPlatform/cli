@@ -1,5 +1,9 @@
 # CoreLink CLI
 
+[![Maturity: Scaffold / Planned](https://img.shields.io/badge/maturity-scaffold%20%2F%20planned-lightgrey)](https://github.com/CoreLinkPlatform/.github/blob/main/REPOSITORY_MATURITY.md)
+[![Artifact: Not published](https://img.shields.io/badge/artifact-not%20published-lightgrey)](https://github.com/CoreLinkPlatform/cli)
+[![Contract: v1 draft](https://img.shields.io/badge/contract-v1%20draft-orange)](https://github.com/CoreLinkPlatform/api-contracts)
+
 > **Maturity: Scaffold / Planned** — this repository does not yet contain an executable CLI, package manifest, or supported release artifact.
 
 CoreLink CLI is the planned command-line client for developer and operator workflows that are explicitly exposed through versioned CoreLink contracts.
